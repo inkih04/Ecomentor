@@ -129,25 +129,29 @@ This project was collaboratively developed by:
 
 ## 📱 Screenshots
 
-### Main Dashboard
-![](https://github.com/inkih04/Ecomentor/blob/main/images/mapa.png) 
-![](https://github.com/inkih04/Ecomentor/blob/main/images/sideBar.png)
+<details>
+<summary>📸 Click to view app screenshots</summary>
 
-### Achievements
+### Main Dashboard
+![Main Dashboard - Map View](https://github.com/inkih04/Ecomentor/blob/main/images/mapa.png) 
+![Main Dashboard - Sidebar](https://github.com/inkih04/Ecomentor/blob/main/images/sideBar.png)
+
+### Achievements System
 ![Achievements](https://github.com/inkih04/Ecomentor/blob/main/images/logros.png) 
 
-### Recommendations
+### AI-Powered Recommendations
 ![Recommendations](https://github.com/inkih04/Ecomentor/blob/main/images/recommendations.png) 
 
-### Certificate Comparison
+### Certificate Comparison Tool
 ![Certificate Comparison](https://github.com/inkih04/Ecomentor/blob/main/images/compare.png) 
 
-### AI Sustainability Advisor
+### AI Sustainability Advisor Chat
 ![AI Advisor](https://github.com/inkih04/Ecomentor/blob/main/images/chat.png) 
 
 ### Improvement Calculator
 ![Calculator](https://github.com/inkih04/Ecomentor/blob/main/images/Calculate.png)
 
+</details>
 
 ## 🔧 Technology Stack
 
