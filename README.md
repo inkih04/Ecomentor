@@ -16,6 +16,33 @@ The application enables users to:
 - **Achievement System**: Gamification features to encourage sustainable practices
 - **Multi-platform Support**: Native iOS and Android apps with multi-language support (Catalan, Spanish, English)
 
+## 📱 Screenshots
+
+<details>
+<summary>📸 Click to view app screenshots</summary>
+
+### Main Dashboard
+![Main Dashboard - Map View](https://github.com/inkih04/Ecomentor/blob/main/images/mapa.png) 
+![Main Dashboard - Sidebar](https://github.com/inkih04/Ecomentor/blob/main/images/sideBar.png)
+
+### Achievements System
+![Achievements](https://github.com/inkih04/Ecomentor/blob/main/images/logros.png) 
+
+### AI-Powered Recommendations
+![Recommendations](https://github.com/inkih04/Ecomentor/blob/main/images/recommendations.png) 
+
+### Certificate Comparison Tool
+![Certificate Comparison](https://github.com/inkih04/Ecomentor/blob/main/images/compare.png) 
+
+### AI Sustainability Advisor Chat
+![AI Advisor](https://github.com/inkih04/Ecomentor/blob/main/images/chat.png) 
+
+### Improvement Calculator
+![Calculator](https://github.com/inkih04/Ecomentor/blob/main/images/Calculate.png)
+
+</details>
+
+
 ## 🏗️ Architecture
 
 This project follows a modern full-stack architecture with modular monolithic design:
